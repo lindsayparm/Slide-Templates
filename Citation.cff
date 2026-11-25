@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use these designs in your research, please cite them using the metadata below."
+type: software
+title: "Slide Templates: 3D-printable imageable area guides for spatial biology slides and tissue blocks"
+abstract: >-
+  3D-printable STL guides for marking the imageable areas of
+  25 x 75 x 1 mm glass microscope slides used with the CosMx, GeoMx,
+  Fusion, CellScape, Atera, Xenium, and Visium HD imaging platforms,
+  and for visualizing imageable tissue regions in FFPE and fresh
+  frozen (FF) tissue blocks. Designed in Tinkercad and tested on a
+  Formlabs Form 3B+ with Black V4.1 resin.
+authors:
+  - given-names: Lindsay
+    family-names: Parmelee
+    # orcid: "https://orcid.org/0000-0002-2488-3544"
+    # affiliation: "Beth Israel Deaconess Medical Center"
+repository-code: "https://github.com/Lindsayparm/Slide-Templates"
+license: Apache-2.0
+version: "1.0.0"
+date-released: "2026-11-25"
+keywords:
+  - 3D printing
+  - spatial biology
+  - spatial transcriptomics
+  - microscope slides
+  - FFPE
+  - fresh frozen
+  - histology
+  - CosMx
+  - GeoMx
+  - Xenium
+  - Visium HD
+# After archiving a release on Zenodo, add the DOI:
+# identifiers:
+#   - type: doi
+#     value: "10.5281/zenodo.XXXXXXX"
+#     description: "Archived release on Zenodo"
