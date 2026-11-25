@@ -33,5 +33,5 @@ keywords:
 # After archiving a release on Zenodo, add the DOI:
 # identifiers:
 #   - type: doi
-#     value: "10.5281/zenodo.XXXXXXX"
+#     value: "10.5281/zenodo.24542693"
 #     description: "Archived release on Zenodo"
