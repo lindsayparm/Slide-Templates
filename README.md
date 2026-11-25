@@ -1,3 +1,4 @@
+DOI 10.5281/zenodo.24542692
 # Slide-Templates
 
 3D-printable guides for marking the imageable areas of glass microscope slides used in spatial biology imaging platforms, and for visualizing imageable tissue regions in FFPE and fresh frozen (FF) tissue blocks.
